@@ -54,14 +54,9 @@ This repository contains datasets, scripts, and documentation for storing, manag
    ```bash
    git clone https://github.com/EsterSiahaan/Sales-Insights-Atlight.git
    ```
-2. Create a virtual environment and install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Import the dataset into a local database using the ETL scripts
-4. Run the notebooks in the `analysis/` or `modeling/` folder
-5. Adjust the SQL queries in `sql/` to match your database schema
+2. Import the dataset into a local database using the ETL scripts
+3. Run the notebooks in the `analysis/` or `modeling/` folder
+4. Adjust the SQL queries in `sql/` to match your database schema
 
 ### Notes
 
