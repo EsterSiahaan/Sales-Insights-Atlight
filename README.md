@@ -52,7 +52,7 @@ This repository contains datasets, scripts, and documentation for storing, manag
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/EsterSiahaan/Sales-Insights-Atlight.git
    ```
 2. Create a virtual environment and install dependencies:
 
